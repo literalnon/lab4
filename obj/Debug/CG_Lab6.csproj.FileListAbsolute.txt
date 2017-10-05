@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\CG_Lab6\bin\Debug\CG_Lab6.exe.config
+C:\Users\admin\Desktop\CG_Lab6\bin\Debug\CG_Lab6.exe
+C:\Users\admin\Desktop\CG_Lab6\bin\Debug\CG_Lab6.pdb
+C:\Users\admin\Desktop\CG_Lab6\obj\Debug\CG_Lab6.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CG_Lab6\obj\Debug\CG_Lab6.Form1.resources
+C:\Users\admin\Desktop\CG_Lab6\obj\Debug\CG_Lab6.Properties.Resources.resources
+C:\Users\admin\Desktop\CG_Lab6\obj\Debug\CG_Lab6.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\CG_Lab6\obj\Debug\CG_Lab6.exe
+C:\Users\admin\Desktop\CG_Lab6\obj\Debug\CG_Lab6.pdb
